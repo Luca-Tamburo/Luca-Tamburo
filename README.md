@@ -9,6 +9,7 @@
 - 🔬 I'm a student attending master's degree in Computer Engineering at Politecnico di Torino.
 - 🏛 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 - 👨‍💻 All of my projects are available <a href="https://github.com/Luca-Tamburo?tab=repositories">Here!</a>
+- 📫 How to reach me: <a href="https://linkedin.com/in/https://www.linkedin.com/in/luca-tamburo-6377b0226/" target="blank">LinkedIn</a>
 <!-- - 🎯 See my portfolio: -->
 <!-- TODO: Inserire il link sul nome caricando   -->
 <!-- - 📝 Checkout my Resume -->
