@@ -8,6 +8,8 @@
 
 - 🔬 I'm a student attending master's degree in Computer Engineering at Politecnico di Torino.
 - 🏛 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
+- 🔭 I’m currently working on my personal project: [Spotify Clone](https://github.com/Luca-Tamburo/spotify-clone)
+- 🌱 In the future I would like to learn: **TypeScript**
 - 👨‍💻 All of my projects are available <a href="https://github.com/Luca-Tamburo?tab=repositories">Here!</a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/luca-tamburo-6377b0226/" target="blank">LinkedIn</a>
 <!-- - 🎯 See my portfolio: -->
