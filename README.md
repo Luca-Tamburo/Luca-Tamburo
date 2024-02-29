@@ -1,4 +1,3 @@
-
 <!-- TODO: Insert portofolio link in the name -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=31&duration=2500&pause=200&color=F7F7F7&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+Luca+Tamburo!;%E2%9D%A4%EF%B8%8F+Welcome+to+my+GitHub!+%E2%9D%A4%EF%B8%8F" alt="Typing SVG">
@@ -7,13 +6,13 @@
 ## 👨🏻‍💻&nbsp; About Me
 
 - 🔬 I'm a student attending master's degree in Computer Engineering at Politecnico di Torino.
-- 🏛  I'm passionate about technology, with a particular interest in web and mobile development. I'm constantly looking for new challenges and opportunities to improve my technical skills and expand my knowledge.
-- 🔭 I’m currently working on my personal project: [Spotify Clone](https://github.com/Luca-Tamburo/spotify-clone)
+- 🏛 I'm passionate about technology, with a particular interest in web and mobile development. I'm constantly looking for new challenges and opportunities to improve my technical skills and expand my knowledge.
+<!-- - 🔭 I’m currently working on my personal project: [Spotify Clone](https://github.com/Luca-Tamburo/spotify-clone) -->
 - 🌱 In the future I would like to learn: **TypeScript**
 - 👨‍💻 All of my projects are available <a href="https://github.com/Luca-Tamburo?tab=repositories">Here!</a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/luca-tamburo-6377b0226/" target="blank">LinkedIn</a>
-<!-- - 🎯 See my portfolio: -->
-<!-- TODO: Inserire il link sul nome caricando   -->
+  <!-- - 🎯 See my portfolio: -->
+  <!-- TODO: Inserire il link sul nome caricando   -->
 
 <details open>
 <summary>
@@ -21,13 +20,20 @@
  </summary>
  
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=c,java,javascript,rust,kotlin )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,javascript,rust,kotlin&perline=9)](https://skillicons.dev)
 
-### Web Dev
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,vercel,express,mysql,nodejs,spring,sqlite&perline=7)](https://skillicons.dev)
+### Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,vercel&perline=9)](https://skillicons.dev)
+
+### Backend
+
+[![My Skills](https://skillicons.dev/icons?i=firebase,express,mysql,mongodb,nodejs,spring,sqlite,nestjs&perline=9)](https://skillicons.dev)
 
 ### Software and Tools
-[![My Skills](https://skillicons.dev/icons?i=atom,visualstudio,postman,figma,git,github,md,latex,gradle,docker,jest)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=atom,vscode,webstorm,androidstudio,postman,figma,git,github,gitlab,md,latex,gradle,docker,jest&perline=9)](https://skillicons.dev)
+
 </details>
 
 <details>
@@ -43,13 +49,3 @@
 </a>
 
 </details>
-
-
-<!-- 
-<details>
-<summary>
-  #Recent Activity :zap: -->
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
- <!-- </summary>
-</details> -->
