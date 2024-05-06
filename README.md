@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻&nbsp; About Me
 
-- 🔬 I'm a student attending master's degree in Computer Engineering at Politecnico di Torino.
+- 🔬 I'm a software engineer and a fullstack developer based in Turin, Italy.
 - 🏛 I'm passionate about technology, with a particular interest in web and mobile development. I'm constantly looking for new challenges and opportunities to improve my technical skills and expand my knowledge.
 <!-- - 🔭 I’m currently working on my personal project: [Spotify Clone](https://github.com/Luca-Tamburo/spotify-clone) -->
 - 🌱 In the future I would like to learn: **TypeScript**
