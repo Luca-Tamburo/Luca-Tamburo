@@ -8,7 +8,7 @@
 - 🔬 I'm a software engineer and a fullstack developer based in Turin, Italy.
 - 🏛 I'm passionate about technology, with a particular interest in web and mobile development. I'm constantly looking for new challenges and opportunities to improve my technical skills and expand my knowledge.
 <!-- - 🔭 I’m currently working on my personal project: [Spotify Clone](https://github.com/Luca-Tamburo/spotify-clone) -->
-- 🌱 In the future I would like to learn: **TypeScript**
+- 🌱 In the future I would like to learn: **Flutter**
 - 👨‍💻 All of my projects are available <a href="https://github.com/Luca-Tamburo?tab=repositories">Here!</a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/luca-tamburo-6377b0226/" target="blank">LinkedIn</a>
   <!-- - 🎯 See my portfolio: -->
@@ -20,7 +20,7 @@
  </summary>
  
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=c,java,javascript,rust,kotlin&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,javascript,typescript,rust,kotlin&perline=9)](https://skillicons.dev)
 
 ### Frontend
 
